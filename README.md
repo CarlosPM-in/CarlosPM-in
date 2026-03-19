@@ -2,10 +2,10 @@
 
 I'm Carlos Paredes, a Robotics Engineer based in Mexico.
 
-This is my proffesional Git-Hub account, I only used it for work.
+This is my proffesional Git-Hub account, I only used it for work.\
   I mostly work on back-end and local automation tools. During my last experience I have been working 
 on private automation framework for the pre-silicon validation team at `Intel` as you might see in my
-aports on repos.
+aports on repos.\
   I also have another personal repository where somethimes I upload some projects from robotics to
 Discord bots for example.
 
