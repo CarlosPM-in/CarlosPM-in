@@ -34,4 +34,4 @@ I also have some favorite tools that I like to work with, and they're:
 
 > [!TIP]
 > You can check my `LinkedIn` account
-> [Carlos Paredes LinkedIn] (https://www.linkedin.com/in/carlos-p-m/)
+> [Carlos Paredes LinkedIn](https://www.linkedin.com/in/carlos-p-m/)
